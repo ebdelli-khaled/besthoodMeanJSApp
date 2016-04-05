@@ -4,12 +4,15 @@
     <option name="serverConfigurations">
       <list>
         <ServerConfiguration>
-          <option name="label" value="localhost" />
+          <option name="label" value="BestHoodDB" />
+          <option name="password" value="khlech8940" />
           <option name="serverUrls">
             <list>
-              <option value="localhost:27017" />
+              <option value="ds011379.mlab.com:11379" />
             </list>
           </option>
+          <option name="userDatabase" value="besthood" />
+          <option name="username" value="ebdelli" />
         </ServerConfiguration>
       </list>
     </option>
